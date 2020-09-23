@@ -1,7 +1,0 @@
-Rendszerterv
-
-1.Rendszer célja
-A rendszernek a célja, hogy a játékos legyőzze a gépet kő-papír-ollóban. 
-Ha a játékos nyer, akkor neki lesz hozzáadva a pontjaihoz 1 pont, ha a gép, akkor neki, ha döntetlen, akkor pedig egyikőjüknek sem.
-A játék használatához nem szükséges regisztrálni, viszont ha elhagyjuk az oldalt akkor a pontok törlődnek.
-A játék az eredeti szabályok szerint megy, a kő üti az ollót, az olló üti a papírt, a papír üti a követ.
