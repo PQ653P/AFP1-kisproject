@@ -1,7 +1,23 @@
-Rendszerterv
+﻿Rendszerterv
 
 1.Rendszer célja
 A rendszernek a célja, hogy a játékos legyőzze a gépet kő-papír-ollóban. 
 Ha a játékos nyer, akkor neki lesz hozzáadva a pontjaihoz 1 pont, ha a gép, akkor neki, ha döntetlen, akkor pedig egyikőjüknek sem.
 A játék használatához nem szükséges regisztrálni, viszont ha elhagyjuk az oldalt akkor a pontok törlődnek.
 A játék az eredeti szabályok szerint megy, a kő üti az ollót, az olló üti a papírt, a papír üti a követ.
+
+2.Projekt terv
+	A projektet weblapra fejlesztjük front- és backend segítségével. Az elkülönített feladatokon más-más emberek dolgoznak.
+	Frontend fejlesztése HTML/CSS segítségével
+	Frontend felelősök:
+
+	A feladat célja, hogy egy letisztult, könnyen kezelhető, igényes weblapot nyújtson a felhasználó számára.
+
+	Backend felelősök:
+
+	Feladatuk a háttérben működő programok megírása, randomizálás, JavaScript kód, és az eredmény kiértékelés.
+
+3.Követelmények
+	A rendszer fejlesztése HTML/CSS valamint JavaScript és php segítségével történik.
+	A weblap felépítése, valamint dizájnolása a HTML/CSS nyelv implementálásával valósítandó meg.
+A weboldal használatához egy egyszerű böngészőre van szükség.
