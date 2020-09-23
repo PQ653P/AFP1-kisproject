@@ -1,0 +1,8 @@
+Funkcionális specifikáció
+
+1.Bevezetés
+Egy egyszerű alkalmazás készítésén gondolkodtunk, ami megméretetti a két játékos szerencséjét, így jutott a választásunk a jó öreg, kő-papír-olló nevű játékra.
+Ez a játék, ami majdnem egyidős az emberiséggel, ezért úgy gondoltuk az egyszerű logikán épülő szabályrendszere egy játékost sem fog összezavarni.
+A játékot vizuális módon szeretnénk megoldani, mivel a szemnek barátibb ránézni egy képre, mint egy szövegre.
+A felhasználó a gép ellen küzdhet meg, és teheti próbára a szerencséjét, a szokásos szabályok szerint.
+Ezt az egyszerű játékot web felületen fogjuk lebonyolítani, és bejelentkezés nélkül bárki tud vele játszani.
