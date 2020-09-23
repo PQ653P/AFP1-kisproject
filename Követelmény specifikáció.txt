@@ -1,0 +1,6 @@
+Követelmény specifikáció
+
+1. Jelenlegi helyzet
+Rengeteg kő-papír-olló alkalmi játék létezik az interneten, sok féle és fajta, különböző kultúrákból, viszont egyik sem nyerte el teljesen a tetszésünket, ezért úgy döntöttünk, hogy megalkotjuk a sajátunkat.
+Sok helyen regisztráció kellett az alkalmazás használatához, viszont mi alkalmi játékot szerettünk volna készíteni, ahová a felhasználó belép, és rögtön használni tudja az alkalmazás adta lehetőségeket.
+Pár helyen aggály volt a játék kinézete és dizájnja, ezért mi úgy gondoltuk, hogy megcsinálunk egy egyszerű, de igényes kő-papír-olló webes játékot.
