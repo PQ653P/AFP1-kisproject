@@ -9,7 +9,7 @@ Ezt az egyszerű játékot web felületen fogjuk lebonyolítani, és bejelentkez
 
 2.Jelenlegi helyzet
 A megrendelő egy egyszerű, könnyen kezelhető, szerencsére alapuló játékot szeretne, amivel az emberek kikapcsolódását, szórakozását tudjuk megvalósítani.
-Az említett szerencsejátékot web felületen szeretné alkalmaztatni a megrendelő.
+Az említett játékot web felületen szeretné alkalmaztatni a megrendelő.
 Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, tevékenységeket egyeztetjük.
 
 3.Vágyálom rendszer
