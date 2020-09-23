@@ -1,4 +1,4 @@
-Követelmény specifikáció
+﻿Követelmény specifikáció
 
 1. Jelenlegi helyzet
 Rengeteg kő-papír-olló alkalmi játék létezik az interneten, sok féle és fajta, különböző kultúrákból, viszont egyik sem nyerte el teljesen a tetszésünket, ezért úgy döntöttünk, hogy megalkotjuk a sajátunkat.
@@ -9,4 +9,26 @@ Pár helyen aggály volt a játék kinézete és dizájnja, ezért mi úgy gondo
 A project célja egy olyan alkalmi játék fejlesztése, amit a játékos szabadon bármikor használhat, regisztráció nélkül.
 Amiben próbára teheti a szerencséjét, és vagy nyer, vagy veszít, vagy döntetlen lesz a játszma. Pontozás is jelen lesz addig, amíg a játékos az oldalon tartózkodik, így számon tarthatja, hogy Ő vagy netán a gép áll nyerésre.
 
+3. Jelenlegi üzleti folyamatok modellje
 
+4. Igényelt üzleti folyamatok modellje
+Törekszünk egy letisztult, igényes menü felülettel szolgálni, ahol a játékos el tudja indítani az alkalmi játékot, regisztráció, vagy belépés nélkül, tervezünk egy beállítások menüpontot is létrehozni mind ezek mellett, ahol a játékosnak lehetőséget adunk arra, hogy a hangerőt szabályozza.
+A játék elindítása utána, megpillanthatjuk a játék elemeit, lesz egy számláló, ami számolni fogja a pontszámokat, jelen esetünkben, a gép által szerzett pontokat, a játékos által szerzetteket, és a döntetleneket. A játékmenet körökből áll, ezeknek a száma függ az elért eredménytő.
+A játék vége akkor következik be, ha a játékos vagy a gép eléri a 3 pontot, abban az esetben megjelenítésre kerül az hogy, a gép nyert, avagy a játékos, döntetlen eseteket végtelenítjük, ezzel is a játék dinamikusságát segítve.
+
+5.Fogalomszótár
+Játék – Ez esetünkben a Kő – Papír - Olló nevezetű, az emberiséggel egyidős, alkalmi, szerencsén alapuló játék.
+
+Kő/papír/olló – Játékban e 3 szimbólum ”küzd” meg egymással, az emberi életből merítve, a kő ”üti” az ollót, az olló ”szétvágja” a papírt, a papír pedig ”becsomagolja” a követ.
+
+HTML - HyperText Makeup Language - magyarul: hiperszöveges jelölőnyelv - weboldalak készítéséhez kifejlesztett leírónyelv.
+
+CSS - Cascading Style Sheets - magyarul: egymásba ágyazott stílusalapok - weboldalak külleméhez kifejlesztett stílusleíró nyelv.
+
+Játékmenet - A fentebb említett játék lefolyásának folyamata.
+
+Front-End - Egy adott rendszer legfelsőbb, a felhasználóval kapcsolatot táró rétege, amelynek feladata a rendszerből kijutó adatok megjelenítése, prezentálása, illetve a bejövő adatok fogadása.
+
+Back-End - Egy adott rendszer alsóbb rétege, aminek feladata a front-end réteg felől érkező adatok feldolgozása, valamint a keletkezett eredmény front-end számára történő visszajuttatása.
+
+Supervisor - Angol szó magyarul felügyelő. A projekt szempontjából olyan személy(ek) aki(k) a fejlesztési folyamatokat felügyelik.
