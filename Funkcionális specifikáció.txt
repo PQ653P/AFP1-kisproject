@@ -35,3 +35,7 @@ A Játékos az alábbi tevékenységeket végezheti:
 -
 
 9. Forgatókönyvek
+Az oldalt megnyitva a játékos az 'Új játék' gombra kattintva kezdheti el a játékot.
+A megfelelő elem (kő, papír vagy olló) kiválasztása után láthatja az aktuális játék eredményét.
+Az a játékos (élő vagy gépi), amelyik nyer, 1 pontot kap.
+3 pont összegyűjtése után megnyeri az egész játékot, ilyenkor teljesen új játék kezdhető, újból 0-0 ponttal.
