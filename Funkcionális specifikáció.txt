@@ -17,3 +17,21 @@ A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tu
 
 4.Feltételek
 -
+
+5. Jelenlegi üzleti folyamatok modellje
+
+6. Igényelt üzleti folyamatok modellje
+-
+
+7. Használati esetek
+A Játékos az alábbi tevékenységeket végezheti:
+- Játékot játszhat a gép ellen KŐ, PAPÍR, vagy OLLÓ kiválasztásával.
+- Megtekintheti az aktuális játék eredményét a képernyőn megjelenő "Nyertél!", "Vesztettél!", vagy "Döntetlen!" felirat formájában.
+- Bármikor megtekintheti a saját, illetve a gépi játékos pontszámát, melyek a képernyő két oldalán jelennek meg.
+- A játékot bármely pillanatban abbahagyhatja az oldal bezárásával, ilyenkor az elért pontszáma törlődik.
+- Lehetősége van a pontszámok manuális nullázására is, az oldalon elhelyezett gomb segítségével.
+
+8.Képernyőtervek
+-
+
+9. Forgatókönyvek
