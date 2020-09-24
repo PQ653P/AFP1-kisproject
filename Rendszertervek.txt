@@ -22,7 +22,7 @@ A játék az eredeti szabályok szerint megy, a kő üti az ollót, az olló üt
 	A weblap felépítése, valamint dizájnolása a HTML/CSS nyelv implementálásával valósítandó meg.
 A weboldal használatához egy egyszerű böngészőre van szükség.
 
-5.Funkcionális terv
+4.Funkcionális terv
 Rendszerszereplők:
 -Játékos: Rendszerünknek nincs más szereplője csak a játékos, mert nincs értelme több, pl. egy admin szereplő hozzáadásának.
 A játékos képes kiválasztani, hogy a három közül melyikkel - kővel, papírral vagy ollóval- száll szembe a géppel. 
