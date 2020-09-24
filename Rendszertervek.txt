@@ -35,3 +35,7 @@ A játékos képes kiválasztani, hogy a három közül melyikkel - kővel, pap�
 
 6. Archtitekturális terv
 A rendszerhez mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani. Mivel az egész a kliens oldalon fut, akár a HTML fájl megnyitásával futtatható a játék alkalmazás.
+
+7. Tesztterv
+Az alkalmazás elkészítése során szükség van a folyamatos tesztelésre.
+Tesztelni kell a gombok működését, valamint a pontszám változását, ha a játékos vagy a gép nyer, illetve az új játék kezdésénél a pontszám nullázását.
