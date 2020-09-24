@@ -39,3 +39,6 @@ A rendszerhez mindössze egy webböngészőre van szükség, amely képes JavaSc
 7. Tesztterv
 Az alkalmazás elkészítése során szükség van a folyamatos tesztelésre.
 Tesztelni kell a gombok működését, valamint a pontszám változását, ha a játékos vagy a gép nyer, illetve az új játék kezdésénél a pontszám nullázását.
+
+8. Telepítési terv
+Az alkalmazás futtatásához egy általános felhasználású böngészőre van szükség.
