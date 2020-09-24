@@ -42,3 +42,6 @@ Tesztelni kell a gombok működését, valamint a pontszám változását, ha a 
 
 8. Telepítési terv
 Az alkalmazás futtatásához egy általános felhasználású böngészőre van szükség.
+
+9. Karbantartási terv
+Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játékos mód is hozzáadható.
