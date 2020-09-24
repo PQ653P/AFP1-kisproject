@@ -32,3 +32,6 @@ A játékos képes kiválasztani, hogy a három közül melyikkel - kővel, pap�
         A weblap felépítése, valamint dizájnolása a HTML/CSS nyelv implementálásával valósítandó meg.
     A weboldal használatához egy egyszerű böngészőre van szükség.
     A rendszert bármilyen operációs rendszeren és böngészőben haszálható lesz, valamint telefonról is.
+
+6. Archtitekturális terv
+A rendszerhez mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani. Mivel az egész a kliens oldalon fut, akár a HTML fájl megnyitásával futtatható a játék alkalmazás.
