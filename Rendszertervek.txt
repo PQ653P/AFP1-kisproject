@@ -1,7 +1,7 @@
 ﻿Rendszerterv
 
 1.Rendszer célja
-A rendszernek a célja, hogy a játékos legyőzze a gépet kő-papír-ollóban. 
+A rendszernek a célja, hogy a játékos legyőzze a gépet kő-papír-ollóban.
 Ha a játékos nyer, akkor neki lesz hozzáadva a pontjaihoz 1 pont, ha a gép, akkor neki, ha döntetlen, akkor pedig egyikőjüknek sem.
 A játék használatához nem szükséges regisztrálni, viszont ha elhagyjuk az oldalt akkor a pontok törlődnek.
 A játék az eredeti szabályok szerint megy, a kő üti az ollót, az olló üti a papírt, a papír üti a követ.
@@ -25,4 +25,10 @@ A weboldal használatához egy egyszerű böngészőre van szükség.
 4.Funkcionális terv
 Rendszerszereplők:
 -Játékos: Rendszerünknek nincs más szereplője csak a játékos, mert nincs értelme több, pl. egy admin szereplő hozzáadásának.
-A játékos képes kiválasztani, hogy a három közül melyikkel - kővel, papírral vagy ollóval- száll szembe a géppel. 
+A játékos képes kiválasztani, hogy a három közül melyikkel - kővel, papírral vagy ollóval- száll szembe a géppel.
+
+5. Fizikai környezet
+    A rendszer fejlesztése HTML/CSS valamint JavaScript és php segítségével történik.
+        A weblap felépítése, valamint dizájnolása a HTML/CSS nyelv implementálásával valósítandó meg.
+    A weboldal használatához egy egyszerű böngészőre van szükség.
+    A rendszert bármilyen operációs rendszeren és böngészőben haszálható lesz, valamint telefonról is.
