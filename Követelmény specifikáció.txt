@@ -10,6 +10,8 @@ A project célja egy olyan alkalmi játék fejlesztése, amit a játékos szabad
 Amiben próbára teheti a szerencséjét, és vagy nyer, vagy veszít, vagy döntetlen lesz a játszma. Pontozás is jelen lesz addig, amíg a játékos az oldalon tartózkodik, így számon tarthatja, hogy Ő vagy netán a gép áll nyerésre.
 
 3. Jelenlegi üzleti folyamatok modellje
+A mostani embereknek nincs elég idejük egy új hobbira, ezért csak alkalmi dolgokkal foglalják le magukat. 
+Ezért alkottuk meg ezt a játékot, mert ez regisztráció nélkül, egy átlagos böngészőből indítható.
 
 4. Igényelt üzleti folyamatok modellje
 Törekszünk egy letisztult, igényes menü felülettel szolgálni, ahol a játékos el tudja indítani az alkalmi játékot, regisztráció, vagy belépés nélkül, tervezünk egy beállítások menüpontot is létrehozni mind ezek mellett, ahol a játékosnak lehetőséget adunk arra, hogy a hangerőt szabályozza.
