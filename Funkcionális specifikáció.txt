@@ -23,6 +23,9 @@ A mai rohanó világban a legtöbb embernek nincs ideje, beregisztrálni és elk
 Ezért gondoltuk úgy, hogy készítünk mi is egy ilyen, alkalmi játékot a saját szájízünkre.
 
 6. Igényelt üzleti folyamatok modellje
+Ezt a programot azért hozzuk létre, hogy a (szerencsejátékot szerető) emberek a szabad időjükben tudjanak játszani. 
+A játék előnye, hogy nem kell hozzá regisztrálni vagy belépni, így amint elindítjuk az oldalt, már játszhatunk is.
+Amíg az oldalon maradunk addig, láthatjuk, hogy kinek - a számítógépnek vagy a játékosnak - van több pontja, így számon tarthatjuk a nyerési sorozatunkat.
 
 7. Használati esetek
 A Játékos az alábbi tevékenységeket végezheti:
