@@ -36,7 +36,8 @@ A Játékos az alábbi tevékenységeket végezheti:
 - Lehetősége van a pontszámok manuális nullázására is, az oldalon elhelyezett gomb segítségével.
 
 8.Képernyőtervek
--
+Egy weboldal ahol választhatunk, kő, papír és olló közül. Amint kiválasztottuk a kívánt "eszközt" a számítógép is választ. 
+Ha a számítógép nyert megjelenik, hogy "A számítógép nyert." és hozzá adunk 1 pontot a pontjaihoz, és ugyanígy a játékosnál, csak ott a "A játékos nyert." felirat jelenik meg és a mi pontjainkhoz adódik hozzá 1.
 
 9. Forgatókönyvek
 Az oldalt megnyitva a játékos az 'Új játék' gombra kattintva kezdheti el a játékot.
