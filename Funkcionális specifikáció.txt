@@ -19,9 +19,10 @@ A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tu
 -
 
 5. Jelenlegi üzleti folyamatok modellje
+A mai rohanó világban a legtöbb embernek nincs ideje, beregisztrálni és elkezdeni egy új, nagy játékot, így legtöbb esetben az emberek alkalmi játékokkal játszanak, ahová csak belépnek, és már kezdhetnek is játszani.
+Ezért gondoltuk úgy, hogy készítünk mi is egy ilyen, alkalmi játékot a saját szájízünkre.
 
 6. Igényelt üzleti folyamatok modellje
--
 
 7. Használati esetek
 A Játékos az alábbi tevékenységeket végezheti:
