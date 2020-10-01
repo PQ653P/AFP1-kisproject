@@ -16,7 +16,7 @@ Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, t
 A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tudja a nyerési esélyeit. Az alkalmazásban 3 féle opció közül választhat a játékos a kő, papír, illetve olló esetekből, az ellenfél a számítógép, ami ugyan ezekkel az esetekkel rendelkezik, így adódóan a játéknak 3 végkimenetele lehet, a nyerés, a döntetlen, és a vereség, ezek eshetősége 1/3.
 
 4.Feltételek
--
+Az alkalamazásunk létrehozásának alapfeltétele, a Notepad++ , vagy valamilyen szövegszerkesztő alkalmazás.
 
 5. Jelenlegi üzleti folyamatok modellje
 A mai rohanó világban a legtöbb embernek nincs ideje, beregisztrálni és elkezdeni egy új, nagy játékot, így legtöbb esetben az emberek alkalmi játékokkal játszanak, ahová csak belépnek, és már kezdhetnek is játszani.
