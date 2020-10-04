@@ -1,0 +1,46 @@
+﻿Funkcionális specifikáció
+
+1.Bevezetés
+Egy egyszerű alkalmazás készítésén gondolkodtunk, ami megméretetti a két játékos szerencséjét, így jutott a választásunk a jó öreg, kő-papír-olló nevű játékra.
+Ez a játék, ami majdnem egyidős az emberiséggel, ezért úgy gondoltuk az egyszerű logikán épülő szabályrendszere egy játékost sem fog összezavarni.
+A játékot vizuális módon szeretnénk megoldani, mivel a szemnek barátibb ránézni egy képre, mint egy szövegre.
+A felhasználó a gép ellen küzdhet meg, és teheti próbára a szerencséjét, a szokásos szabályok szerint.
+Ezt az egyszerű játékot web felületen fogjuk lebonyolítani, és bejelentkezés nélkül bárki tud vele játszani.
+
+2.Jelenlegi helyzet
+A megrendelő egy egyszerű, könnyen kezelhető, szerencsére alapuló játékot szeretne, amivel az emberek kikapcsolódását, szórakozását tudjuk megvalósítani.
+Az említett játékot web felületen szeretné alkalmaztatni a megrendelő.
+Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, tevékenységeket egyeztetjük.
+
+3.Vágyálom rendszer
+A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tudja a nyerési esélyeit. Az alkalmazásban 3 féle opció közül választhat a játékos a kő, papír, illetve olló esetekből, az ellenfél a számítógép, ami ugyan ezekkel az esetekkel rendelkezik, így adódóan a játéknak 3 végkimenetele lehet, a nyerés, a döntetlen, és a vereség, ezek eshetősége 1/3.
+
+4.Feltételek
+Az alkalamazásunk létrehozásának alapfeltétele, a Notepad++ , vagy valamilyen szövegszerkesztő alkalmazás.
+
+5. Jelenlegi üzleti folyamatok modellje
+A mai rohanó világban a legtöbb embernek nincs ideje, beregisztrálni és elkezdeni egy új, nagy játékot, így legtöbb esetben az emberek alkalmi játékokkal játszanak, ahová csak belépnek, és már kezdhetnek is játszani.
+Ezért gondoltuk úgy, hogy készítünk mi is egy ilyen, alkalmi játékot a saját szájízünkre.
+
+6. Igényelt üzleti folyamatok modellje
+Ezt a programot azért hozzuk létre, hogy a (szerencsejátékot szerető) emberek a szabad időjükben tudjanak játszani. 
+A játék előnye, hogy nem kell hozzá regisztrálni vagy belépni, így amint elindítjuk az oldalt, már játszhatunk is.
+Amíg az oldalon maradunk addig, láthatjuk, hogy kinek - a számítógépnek vagy a játékosnak - van több pontja, így számon tarthatjuk a nyerési sorozatunkat.
+
+7. Használati esetek
+A Játékos az alábbi tevékenységeket végezheti:
+- Játékot játszhat a gép ellen KŐ, PAPÍR, vagy OLLÓ kiválasztásával.
+- Megtekintheti az aktuális játék eredményét a képernyőn megjelenő "Nyertél!", "Vesztettél!", vagy "Döntetlen!" felirat formájában.
+- Bármikor megtekintheti a saját, illetve a gépi játékos pontszámát, melyek a képernyő két oldalán jelennek meg.
+- A játékot bármely pillanatban abbahagyhatja az oldal bezárásával, ilyenkor az elért pontszáma törlődik.
+- Lehetősége van a pontszámok manuális nullázására is, az oldalon elhelyezett gomb segítségével.
+
+8.Képernyőtervek
+Egy weboldal ahol választhatunk, kő, papír és olló közül. Amint kiválasztottuk a kívánt "eszközt" a számítógép is választ. 
+Ha a számítógép nyert megjelenik, hogy "A számítógép nyert." és hozzá adunk 1 pontot a pontjaihoz, és ugyanígy a játékosnál, csak ott a "A játékos nyert." felirat jelenik meg és a mi pontjainkhoz adódik hozzá 1.
+
+9. Forgatókönyvek
+Az oldalt megnyitva a játékos az 'Új játék' gombra kattintva kezdheti el a játékot.
+A megfelelő elem (kő, papír vagy olló) kiválasztása után láthatja az aktuális játék eredményét.
+Az a játékos (élő vagy gépi), amelyik nyer, 1 pontot kap.
+3 pont összegyűjtése után megnyeri az egész játékot, ilyenkor teljesen új játék kezdhető, újból 0-0 ponttal.
