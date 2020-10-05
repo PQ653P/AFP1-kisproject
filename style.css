@@ -12,6 +12,15 @@ body {
     margin: 5px;
     list-style-type: none;
 }
+
+.aleft{
+	vertical-align: left; 
+	text-align: center;
+    border: solid 1px white;
+    padding: 5px;
+    margin: 5px;
+    list-style-type: none;
+}
 h1{
   font-family: Caflisch Script, Adobe Poetica, cursive;
   font-size: 40px;
@@ -21,6 +30,12 @@ p{
   font-family: Caflisch Script, Adobe Poetica, cursive;
   font-size: 25px;
   text-indent: 200px;
+}
+.p2{
+  font-family: Caflisch Script, Adobe Poetica, cursive;
+  font-size: 25px;
+  text-indent: 500px;
+  text-align: left;
 }
 
 button {
@@ -33,4 +48,13 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  box-shadow: 0 4px 4px white;
+  background-color: #4CAF50;
+  border-radius: 8px;
+}
+
+.li{
+  font-family: Caflisch Script, Adobe Poetica, cursive;
+  font-size: 25px;
+  text-indent: 200px;
 }
