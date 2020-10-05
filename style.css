@@ -4,3 +4,11 @@ body {
   background-attachment: fixed;  
   background-size: cover;
 }
+
+.a{
+    text-align: center;
+    border: solid 1px white;
+    padding: 5px;
+    margin: 5px;
+    list-style-type: none;
+}
