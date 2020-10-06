@@ -13,7 +13,9 @@ Az említett játékot web felületen szeretné alkalmaztatni a megrendelő.
 Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, tevékenységeket egyeztetjük.
 
 3.Vágyálom rendszer
-A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tudja a nyerési esélyeit. Az alkalmazásban 3 féle opció közül választhat a játékos a kő, papír, illetve olló esetekből, az ellenfél a számítógép, ami ugyan ezekkel az esetekkel rendelkezik, így adódóan a játéknak 3 végkimenetele lehet, a nyerés, a döntetlen, és a vereség, ezek eshetősége 1/3.
+A project egy szerencsére alapuló alkalmazás, amivel a játékos tesztelni tudja a nyerési esélyeit. 
+Az alkalmazásban 3 féle opció közül választhat a játékos a kő, papír, illetve olló esetekből, az ellenfél a számítógép, ami ugyan ezekkel az esetekkel rendelkezik, 
+így adódóan a játéknak 3 végkimenetele lehet, a nyerés, a döntetlen, és a vereség, ezek eshetősége 1/3. 
 
 4.Feltételek
 Az alkalamazásunk létrehozásának alapfeltétele, a Notepad++ , vagy valamilyen szövegszerkesztő alkalmazás.
