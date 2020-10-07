@@ -76,6 +76,10 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	-- Az alkalmazásban az olló funckió nem jó választásra hivatkozott.
 	-- A hiba ki lett javítva.
 	
+	- A papír funkció tesztje
+	-- Az alkalmazásban a papír funckió az ollóra hivatkozott.
+	-- A hiba ki lett javítva.
+	
 10.2 Sikeres tesztek
 	- CSS teszt
 	-- Az alkalmazás tesztelve lett, CSS-el való design-ra.
