@@ -51,7 +51,8 @@ window.onload = function() {
 
 		score_diplay_player.innerHTML = score_player;
 		score_display_cpu.innerHTML = score_cpu;
-		game_details_display.innerHTML = choice + " vs. " + cpu_choice_str;
+		game_details_display.innerHTML = '<span class="player-choice">' + choice + "</span> vs. " +
+		 '<span class="cpu-choice">' + cpu_choice_str + '</span>';
 
 	}
 }
