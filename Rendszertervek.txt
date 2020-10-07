@@ -63,6 +63,10 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	- Navigáló gombok tesztelése.
 	-- Hibás oldalhivatkozást tartalmaztak ezért nem működtek megfelelően.
 	-- A hiba ki lett javítva.
+
+	- Játék oldalon, a "kő" gomb tesztje.
+	-- Az alkalmazás hibásan értékelte ki a gomb funkcióját.
+	-- A hiba ki lett javítva.
 10.2 Sikeres tesztek
 	- CSS teszt
 	-- Az alkalmazás tesztelve lett, CSS-el való design-ra.
