@@ -28,7 +28,7 @@ window.onload = function() {
 	}
 
 	function play_paper() {
-		play("Olló");
+		play("Papír");
 	}
 
 	function play(choice) {
