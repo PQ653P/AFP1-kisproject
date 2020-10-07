@@ -43,10 +43,10 @@ window.onload = function() {
 			(choice === "Olló" && cpu_choice_str === "Papír")
 		) {
 			score_player++;
-			game_result_display.innerHTML = "A gép nyert!";
+			game_result_display.innerHTML = "A játékos nyert!";
 		} else {
 			score_cpu++;
-			game_result_display.innerHTML = "A játékos nyert!";
+			game_result_display.innerHTML = "A gép nyert!";
 		}
 		score_diplay_player.innerHTML = score_player;
 		score_display_cpu.innerHTML = score_cpu;
