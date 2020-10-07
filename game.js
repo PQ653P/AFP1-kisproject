@@ -8,4 +8,7 @@ window.onload = function() {
 
     var score_diplay_player = document.getElementById('score-player');
     var score_display_cpu = document.getElementById('score-cpu');
+
+    score_diplay_player.innerHTML = 0;
+    score_display_cpu.innerHTML = 0;
 }
