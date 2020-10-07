@@ -67,6 +67,10 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	- Játék oldalon, a "kő" gomb tesztje.
 	-- Az alkalmazás hibásan értékelte ki a gomb funkcióját.
 	-- A hiba ki lett javítva.
+	
+	- Pontszámláló tesztje
+	-- Az alkalmazásban nem futott le a gép ponzszámának növelése.
+	-- A hiba ki lett javítva.
 10.2 Sikeres tesztek
 	- CSS teszt
 	-- Az alkalmazás tesztelve lett, CSS-el való design-ra.

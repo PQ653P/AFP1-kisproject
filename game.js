@@ -45,7 +45,7 @@ window.onload = function() {
 			score_player++;
 			game_result_display.innerHTML = "A játékos nyert!";
 		} else {
-			score_cpu+;
+			score_cpu++;
 			game_result_display.innerHTML = "A gép nyert!";
 		}
 
