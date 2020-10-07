@@ -68,3 +68,8 @@ button {
   font-size: 25px;
   text-indent: 200px;
 }
+
+#game-result, #game-details {
+	text-align: center;
+	text-indent: 0;
+}
