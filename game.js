@@ -31,7 +31,7 @@ window.onload = function() {
 	}
 
 	function play(choice) {
-		cpu_choice = Math.floor(Math.random() * (3 - 1) + 1);
+		cpu_choice = Math.floor(Math.random() * 3 + 1);
 		cpu_choice_str = cpu_choice === 0 ? "Kő" : cpu_choice === 1 ? "Papír" : "Olló";
 		if (choice === cpu_choice_str) {
 			game_result_display.innerHTML = "Döntetlen";
