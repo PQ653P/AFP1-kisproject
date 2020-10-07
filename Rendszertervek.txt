@@ -100,3 +100,5 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	- Árnyékolás teszt
 	-- CSS segítségével, a szövegek árnyékolásának szerkesztése.
 	
+	- Árnyékolás teszt
+	-- CSS segítségével, a gombok árnyékolásának szerkesztése.
