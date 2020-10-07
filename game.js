@@ -1,5 +1,5 @@
 window.onload = function() {
-	
+
 	var score_player = 0;
 	var score_cpu = 0;
 
@@ -35,7 +35,8 @@ window.onload = function() {
 		cpu_choice = Math.floor(Math.random() * 3 + 1);
 		cpu_choice_str = cpu_choice === 1 ? "Kő" : cpu_choice === 2 ? "Papír" : "Olló";
 		if (choice === cpu_choice_str) {
-			game_result_display.innerHTML = "A játékos nyert!";
+			game_result_display.innerHTML = "Döntetlen";
+
 		} else if (
 			(choice === "Kő" && cpu_choice_str === "Olló") ||
 			(choice === "Papír" && cpu_choice_str === "Kő") ||
@@ -45,7 +46,7 @@ window.onload = function() {
 			game_result_display.innerHTML = "A gép nyert!";
 		} else {
 			score_cpu++;
-			game_result_display.innerHTML = "Döntetlen";
+			game_result_display.innerHTML = "A játékos nyert!";
 		}
 		score_diplay_player.innerHTML = score_player;
 		score_display_cpu.innerHTML = score_cpu;
