@@ -19,15 +19,15 @@ window.onload = function() {
 	btn_paper.addEventListener('click', play_paper);
 	btn_scissors.addEventListener('click', play_scissors);
 
-	function play_rock() {
+	function play_paper() {
 		play("Kő");
 	}
 
-	function play_paper() {
+	function play_scissors() {
 		play("Papír");
 	}
 
-	function play_scissors() {
+	function play_rock() {
 		play("Olló");
 	}
 
@@ -42,14 +42,16 @@ window.onload = function() {
 			(choice === "Papír" && cpu_choice_str === "Kő") ||
 			(choice === "Olló" && cpu_choice_str === "Papír")
 		) {
-			score_player++;
+			score_player+;
 			game_result_display.innerHTML = "A játékos nyert!";
 		} else {
-			score_cpu++;
+			score_cpu+;
 			game_result_display.innerHTML = "A gép nyert!";
 		}
+		
 		score_diplay_player.innerHTML = score_player;
 		score_display_cpu.innerHTML = score_cpu;
 		game_details_display.innerHTML = choice + " vs. " + cpu_choice_str;
+		
 	}
 }
