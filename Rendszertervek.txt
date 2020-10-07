@@ -67,7 +67,7 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	- Játék oldalon, a "kő" gomb tesztje.
 	-- Az alkalmazás hibásan értékelte ki a gomb funkcióját.
 	-- A hiba ki lett javítva.
-	
+
 	- Pontszámláló tesztje
 	-- Az alkalmazásban nem futott le a gép ponzszámának növelése.
 	-- A hiba ki lett javítva.
@@ -78,6 +78,9 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 
 	- Gomb teszt
 	-- CSS fájlban, a gombnak sikeres méret növelése.
-	
+
 	- Szinezés teszt
 	-- CSS segítségével, a pontszámláló tábla átszinezése.
+
+	- Betűméret teszt
+	-- CSS segítségével, az eredmény jelző méretének növelése.
