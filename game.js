@@ -24,7 +24,7 @@ window.onload = function() {
 	}
 
 	function play_scissors() {
-		play("Papír");
+		play("Olló");
 	}
 
 	function play_paper() {
