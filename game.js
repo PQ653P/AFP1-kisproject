@@ -19,7 +19,7 @@ window.onload = function() {
 	btn_paper.addEventListener('click', play_paper);
 	btn_scissors.addEventListener('click', play_scissors);
 
-	function play_paper() {
+	function play_rock() {
 		play("Kő");
 	}
 
@@ -27,7 +27,7 @@ window.onload = function() {
 		play("Papír");
 	}
 
-	function play_rock() {
+	function play_paper() {
 		play("Olló");
 	}
 
