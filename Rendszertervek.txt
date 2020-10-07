@@ -81,3 +81,6 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	
 	- Szinezés teszt
 	-- CSS segítségével, a pontszámláló tábla átszinezése.
+	
+	- Szinezés teszt
+	-- CSS segítségével, a játékos és a gép által adott válaszok átszinezése.
