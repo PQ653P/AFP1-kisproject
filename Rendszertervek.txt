@@ -49,7 +49,11 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 10. Elvégzett tesztek
 10.1 Hibás tesztek
 	- Játék oldal nyertes megjelenítésének tesztje.
-	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "számítógép nyert" opciókat. 
+	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "számítógép nyert" opciókat.
+	-- A hiba ki lett javítva.
+
+	- Játék oldal nyertes megjelenítésének tesztje.
+	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "döntetlen" opciókat.
 	-- A hiba ki lett javítva.
 
 	- Navigáló gombok tesztelése.
