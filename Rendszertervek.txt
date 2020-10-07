@@ -96,3 +96,7 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 	
 	- Szinezés teszt
 	-- CSS segítségével, a játékos és a gép által adott válaszok átszinezése.
+	
+	- Árnyékolás teszt
+	-- CSS segítségével, a szövegek árnyékolásának szerkesztése.
+	
