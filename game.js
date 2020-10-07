@@ -42,16 +42,16 @@ window.onload = function() {
 			(choice === "Papír" && cpu_choice_str === "Kő") ||
 			(choice === "Olló" && cpu_choice_str === "Papír")
 		) {
-			score_player+;
+			score_player++;
 			game_result_display.innerHTML = "A játékos nyert!";
 		} else {
 			score_cpu+;
 			game_result_display.innerHTML = "A gép nyert!";
 		}
-		
+
 		score_diplay_player.innerHTML = score_player;
 		score_display_cpu.innerHTML = score_cpu;
 		game_details_display.innerHTML = choice + " vs. " + cpu_choice_str;
-		
+
 	}
 }
