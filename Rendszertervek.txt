@@ -78,3 +78,6 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 
 	- Gomb teszt
 	-- CSS fájlban, a gombnak sikeres méret növelése.
+	
+	- Szinezés teszt
+	-- CSS segítségével, a pontszámláló tábla átszinezése.
