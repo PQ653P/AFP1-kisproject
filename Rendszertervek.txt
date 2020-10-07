@@ -45,3 +45,10 @@ Az alkalmazás futtatásához egy általános felhasználású böngészőre van
 
 9. Karbantartási terv
 Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játékos mód is hozzáadható.
+
+10. Elvégzett tesztek
+10.1 Hibás tesztek
+	- Játék oldal nyertes megjelenítésének tesztje.
+	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "számítógép nyert" opciókat. 
+	-- A hiba ki lett javítva.
+10.2 Sikeres tesztek
