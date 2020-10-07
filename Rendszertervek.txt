@@ -49,9 +49,20 @@ Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játé
 10. Elvégzett tesztek
 10.1 Hibás tesztek
 	- Játék oldal nyertes megjelenítésének tesztje.
-	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "számítógép nyert" opciókat. 
+	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "számítógép nyert" opciókat.
 	-- A hiba ki lett javítva.
+
+	- Játék oldal nyertes megjelenítésének tesztje.
+	-- Az alkalmazás hibásan jelenítette meg, a "játékos nyert" és a "döntetlen" opciókat.
+	-- A hiba ki lett javítva.
+
 	- Navigáló gombok tesztelése.
 	-- Hibás oldalhivatkozást tartalmaztak ezért nem működtek megfelelően.
 	-- A hiba ki lett javítva.
 10.2 Sikeres tesztek
+	- CSS teszt
+	-- Az alkalmazás tesztelve lett, CSS-el való design-ra.
+	-- Teszt sikeres, CSS fájlban való változtatás azonnal megjelenik az alkalmazásba.
+
+	- Gomb teszt
+	-- CSS fájlban, a gombnak sikeres méret növelése.
